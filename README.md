@@ -21,17 +21,17 @@ Schema:
                                 url:
                                 results: []
                                 voteStations: [ {
-                                                  station: 第 0001 投開票所,
+                                                  station: 第 0141 投開票所,
                                                   ID:
                                                   url:
                                                   results: [ {
                                                                 name: 吳思瑤,
-                                                                number:
-                                                                gender:
-                                                                elected:
-                                                                votes:
-                                                                percentage:
-                                                                party:
+                                                                number: 2
+                                                                gender: 女
+                                                                elected: true
+                                                                votes: 532
+                                                                percentage: 45.7045
+                                                                party: 民進黨
                                                                 } ]
                                                                 
                                                   
