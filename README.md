@@ -1,7 +1,7 @@
 # TW Election 2016
 2016-1-16 Taiwan Election Data
 
-區域立委得票概況 (選區得票 / 區（鄉/鎮)得票 / 投開票所得票 )
+區域立委得票細項 (選區得票 / 區（鄉/鎮)得票 / 投開票所得票 )
 - election.json
 
 Schema:
