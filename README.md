@@ -7,7 +7,7 @@
 Schema:
 
 ```縣市 
-  {
+ [ {
     name: 台北市,
     ID: 
     districts: [ {
